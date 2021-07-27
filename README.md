@@ -1,16 +1,37 @@
-### Hi there 👋
+# Lia Va / MiloLug
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiloLug&show_icons=true&theme=material-palenight&count_private=true" alt="github status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloLug&layout=compact&theme=material-palenight"/>
+</a>
 
-<!--
-**MiloLug/MiloLug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Development skills (Languages and tools)
+
+> C
+
+> C++: Qt
+
+> HTML/CSS/JS: Vue, React, Ionic Framework
+
+> NodeJS
+
+> Python: Django and DRF, Celery, GraphQL
+
+> Kotlin
+
+> PHP: Wordpress
+
+> MySql
+
+## Contacts and links
+
+
+> [Telegram](https://t.me/dedepere) - @dedepere
+> 
+> [Email](mailto:mistickusya.2012@gmail.com) - mistickusya.2012@gmail.com
+> 
+> [website](https://milolug.github.io)
+> 
+> [Github](./#) It's here...
+
