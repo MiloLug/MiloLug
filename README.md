@@ -29,8 +29,6 @@
 
 > [Telegram](https://t.me/dedepere) - @dedepere
 > 
-> [Email](mailto:mistickusya.2012@gmail.com) - mistickusya.2012@gmail.com
-> 
 > [website](https://milolug.github.io)
 > 
 > [Github](./#) It's here...
