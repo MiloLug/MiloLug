@@ -10,26 +10,30 @@
 
 > C
 
-> C++: Qt
+> C++: Qt, OpenGL
 
-> HTML/CSS/JS: Vue, React, Ionic Framework
+> HTML/CSS/JS: Vue, React, Ionic Framework, SASS
 
 > NodeJS
 
 > Python: Django and DRF, Celery, GraphQL
 
-> Kotlin
+> Java, Kotlin
 
 > PHP: Wordpress
 
-> MySql
+> MySql, PostgeSQL, Redis
+
+> Linux, Bash
+
+> AWS: EC2, S3, CloudFront, Cognito, SNS
+
+> Git
 
 ## Contacts and links
 
 
 > [Telegram](https://t.me/dedepere) - @dedepere
-> 
-> [website](https://milolug.github.io)
 > 
 > [Github](./#) It's here...
 
