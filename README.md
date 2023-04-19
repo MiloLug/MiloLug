@@ -10,6 +10,8 @@
 
 > C
 
+> Go
+
 > C++: Qt, OpenGL
 
 > HTML/CSS/JS: Vue, React, Ionic Framework, SASS
