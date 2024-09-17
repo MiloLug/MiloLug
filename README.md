@@ -34,7 +34,4 @@
 
 ## Contacts and links
 
-
-> [Telegram](https://t.me/dedepere) - @dedepere
-> 
 > [Github](./#) It's here...
