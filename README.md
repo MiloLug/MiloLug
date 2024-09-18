@@ -1,4 +1,4 @@
-# Lia Va / MiloLug
+# V / MiloLug
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=MiloLug&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" alt="github status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiloLug&layout=compact&theme=material-palenight"/>
